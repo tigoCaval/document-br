@@ -1,0 +1,19 @@
+ {
+    "name": "tigo/documentbr",
+    "description": "Validação de cpf e cnpj", 
+    "license": "Mit",
+    "authors": [ 
+        {
+            "name": "Tiago A C Pereira",
+            "email": "tiagocavalcante57@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tigo\\": "src/" 
+        }
+    } 
+}
