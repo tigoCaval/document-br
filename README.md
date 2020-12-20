@@ -2,7 +2,7 @@
 Validar CPF e CNPJ 
 
 ## Utilizando com Laravel/composer
-- ```composer require tigo/documentbr```
+- Install:  ```composer require tigo/documentbr```
 - Sintaxe exemplo:
 ```php
 use Tigo\Cpf; //import class 
