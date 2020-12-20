@@ -103,7 +103,7 @@ abstract class DocumentBase
     
     /**
      * Validar documento.
-     * Acrecentar os dois digitos finais e retornar array do documento completo.
+     * Acrescentar os dois digitos finais e retornar array do documento completo.
      * @param mixed $doc
      * @param int $limit
      * @param array $digitOne
