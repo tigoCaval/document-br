@@ -17,3 +17,6 @@ var_dump($cnpj->check('00000000000000')) // verifica se o cnpj é válido, caso 
 var_dump($cnpj->generate());// gerar cnpj válido
 
  ```
+## Licença
+
+[MIT license](https://opensource.org/licenses/MIT).
