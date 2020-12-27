@@ -1,5 +1,5 @@
 # Documentos BR - Validador CPF e CNPJ
-Validar CPF e CNPJ 
+Validação de CPF e CNPJ 
 ## Utilizando com Laravel/composer
 - Observação: este pacote pode ser utilizado em qualquer aplicação PHP.
 - Baixar pacote:  ```composer require tigo/documentbr```
