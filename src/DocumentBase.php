@@ -10,6 +10,9 @@ namespace Tigo;
 abstract class DocumentBase
 {
  
+     abstract protected function check($doc); // verificar documento
+     abstract protected function generate(); // gerar documento
+   
     /**
      * Autenticar documento, retorne true caso o documento seja válido.  
      * @param mixed $doc
@@ -149,5 +152,4 @@ abstract class DocumentBase
          return $value <= 1 ? true : false;  
     }
       
-   
 }
