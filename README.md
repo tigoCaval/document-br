@@ -21,5 +21,7 @@ var_dump($cnpj->generate());// gerar cnpj válido
 
 Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/document-br/blob/main/LICENSE).
 
+---
+
 [Donate/Doar](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG) - 
 Olá! Se você achou este pacote útil, considere fazer uma [doação](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG). Fique à vontade para contribuir ou não.
