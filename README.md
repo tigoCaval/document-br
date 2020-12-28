@@ -19,4 +19,4 @@ var_dump($cnpj->generate());// gerar cnpj válido
  ```
 ## Licença
 
-[MIT license](https://opensource.org/licenses/MIT).
+Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/document-br/blob/main/LICENSE).
