@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tigo\\": "src/" 
+            "Tigo\\DocumentBr\\": "src/" 
         }
     } 
 }

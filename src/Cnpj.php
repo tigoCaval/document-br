@@ -1,7 +1,7 @@
 <?php
-namespace Tigo;
+namespace Tigo\DocumentBr;
 
-use Tigo\DocumentBase;
+use Tigo\DocumentBr\DocumentBase;
 
 /**
  * Regra do CNPJ

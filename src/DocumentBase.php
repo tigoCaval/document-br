@@ -1,5 +1,5 @@
 <?php
-namespace Tigo;
+namespace Tigo\DocumentBr;
    
 /**
  * Aqui contém a lógica para gerar e validar documentos do cpf e cnpj.
