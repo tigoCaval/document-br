@@ -23,6 +23,6 @@ Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/document-br/
 
 ---
 
-[Donate/Doar](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG) - 
-Olá! Se você achou este pacote útil, considere fazer uma [doação](https://www.paypal.com/donate?hosted_button_id=QAANKJUX8M8LG). Fique à vontade para contribuir ou não.
- 
+Olá! Se você achou este pacote útil, considere fazer uma [doação](https://www.paypal.com/donate?hosted_button_id=GNFS3L3FRC9K8). Fique à vontade para contribuir ou não.
+
+[![paypal](https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate?hosted_button_id=GNFS3L3FRC9K8) 
