@@ -20,8 +20,9 @@ var_dump($cpf->generate());// gerar cpf válido
 $cnpj = new Cnpj();
 var_dump($cnpj->check('00000000000000')); // verifica se o cnpj é válido, caso seja válido retorne true
 var_dump($cnpj->generate());// gerar cnpj válido
-
  ```
+## Projeto Exemplo
+   Exemplo de um projeto utilizando este pacote: [tigoCaval/example-documentbr](https://github.com/tigoCaval/example-documentbr)
 ## Licença
 
 Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/document-br/blob/main/LICENSE).
